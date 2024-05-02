@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... 🐍 
 - 📫 How to reach me: ... twitter/ yashpreet_kr
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I know how to code without using chatGPT 
+- ⚡ Fun fact: ... I know how a little bit of code without using chatGPT 
 -->
