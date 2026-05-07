@@ -76,6 +76,7 @@ I'm a B.Tech graduate in **Electronics & Communication Engineering** from Kuruks
   <img src="https://github-readme-stats.vercel.app/api?username=yashpreet-kaur306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet-kaur306&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/yashpreet-kaur-47b385211">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -89,6 +90,8 @@ I'm a B.Tech graduate in **Electronics & Communication Engineering** from Kuruks
 I'm actively looking for **entry-level Data Analyst / MIS Analyst** opportunities. If you're hiring or just want to talk data, feel free to reach out!
 
 📧 Reach me via [LinkedIn](https://linkedin.com/in/yashpreet-kaur-47b385211)
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashpreet-kaur306&color=blueviolet&style=flat-square" alt="Profile views" />
